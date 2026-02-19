@@ -43,7 +43,7 @@ monthly_df = (
 
 print("Monthly aggregation completed")
 
-# Save cleaned data
+# Save output
 df.to_csv("data/cleaned_weather_data.csv", index=False)
 monthly_df.to_csv("data/monthly_weather_data.csv", index=False)
 
