@@ -2,7 +2,7 @@
 Climate Scope Visualizing Global Weather Trends and Extreme Events   Milestone 1: Data Preparation &amp; Initial Analysis   Tasks Completed - Dataset download and environment setup  - Data inspection and schema understanding  - Missing value handling  - Daily to monthly data aggregation   - Export of cleaned and processed datasets 
 
 
-## ✅ Milestone 1: Data Preparation
+# ✅ Milestone 1: Data Preparation
 - Dataset inspection
 - Missing value handling
 - Date conversion
@@ -10,7 +10,7 @@ Climate Scope Visualizing Global Weather Trends and Extreme Events   Milestone 1
 - Monthly aggregation
 
 
-## ✅ Milestone 2: Core Analysis
+# ✅ Milestone 2: Core Analysis
 - Statistical summary generation
 - Correlation analysis
 - Seasonal trend analysis
@@ -18,7 +18,7 @@ Climate Scope Visualizing Global Weather Trends and Extreme Events   Milestone 1
 - Country temperature comparison
 
 
-## 🚀 Next Steps
+# 🚀 Next Steps
 - Interactive visualizations (Plotly)
 - Dashboard development (Streamlit)
 - Deployment as web application
