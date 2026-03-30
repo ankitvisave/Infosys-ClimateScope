@@ -22,3 +22,36 @@ Climate Scope Visualizing Global Weather Trends and Extreme Events   Milestone 1
 - Interactive visualizations (Plotly)
 - Dashboard development (Streamlit)
 - Deployment as web application
+
+
+## ✅ Milestone 3: Dashboard Development
+
+- Developed interactive dashboard using Streamlit
+- Implemented country and date filters
+- Displayed key climate metrics (temperature, humidity, wind, rainfall)
+- Created visualizations using Plotly
+- Built user-friendly interface for data exploration
+
+
+## ✅ Milestone 4: Travel Planner Dashboard (Enhanced Version)
+
+- Smart travel recommendations based on climate conditions
+- Best month suggestions for travel (20°C – 30°C range)
+- Temperature trend visualization
+- Multi-country comparison feature
+- Extreme weather detection (heatwaves & flood risk)
+- Global temperature choropleth map
+
+
+✈️ Key Features
+
+- Interactive filtering system
+- Climate KPI metrics
+- Smart decision-making support
+- Data visualization and insights
+- Travel recommendation engine
+
+
+📌 Conclusion
+
+This project successfully demonstrates how data analytics and visualization can be used to solve real-world problems like travel planning. The dashboard provides meaningful insights and enhances user decision-making.
